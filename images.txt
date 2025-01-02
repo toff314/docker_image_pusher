@@ -18,3 +18,4 @@
   prom/alertmanager
   grafana/grafana
   giantswarm/tiny-tools
+weaveworks/scope:1.13.2
