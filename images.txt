@@ -13,3 +13,8 @@
     weaveworksdemos/user:0.4.4
     weaveworksdemos/user-db:0.4.0
     weaveworksdemos/load-test:0.1.1
+  prom/prometheus
+  quay.io/prometheus/node-exporter:v1.1.2
+  prom/alertmanager
+  grafana/grafana
+  giantswarm/tiny-tools
