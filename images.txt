@@ -19,3 +19,7 @@
   grafana/grafana
   giantswarm/tiny-tools
 weaveworks/scope:1.13.2
+
+calico/cni:v3.25.0
+calico/node:v3.25.0
+calico/kube-controllers:v3.25.0
