@@ -1,4 +1,10 @@
-docker.io/mambaorg/micromamba:1.0.0
 python:3.12-slim
 neo4j:2025.05.1-community-bullseye
 php:7.4
+mysql:8.0.33
+redis:6.2
+semitechnologies/weaviate:1.30.0
+minio/minio
+ruoyi-ai-backend:v2.0.5
+ruoyi-ai-admin:v2.0.5
+ruoyi-ai-web:v2.0.5
