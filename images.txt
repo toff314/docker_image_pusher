@@ -4,3 +4,4 @@ php:7.4
 mysql:8.0.33
 redis:6.2
 ghcr.io/coder/coder:latest
+rancher/local-path-provisioner:v0.0.34
